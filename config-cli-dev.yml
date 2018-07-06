@@ -1,0 +1,3 @@
+server:
+  port: 8003
+foo: foo version 11
